@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/lordBN/XploitSPY.svg?branch=master)](https://travis-ci.com/lordBN/XploitSPY)
+
 Orginal version https://github.com/CodeCracker-Tools/MegaDumper
 
 Download https://github.com/lordBN/Mega-Dumper/releases
