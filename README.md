@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.com/lordBN/XploitSPY.svg?branch=master)](https://travis-ci.com/lordBN/XploitSPY)
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/lordBN/Mega-Dumper?branch=master)](https://bettercodehub.com/)
+
 Orginal version https://github.com/CodeCracker-Tools/MegaDumper
 
 Download https://github.com/lordBN/Mega-Dumper/releases
