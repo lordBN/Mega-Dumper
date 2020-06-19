@@ -2,6 +2,8 @@
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/lordBN/Mega-Dumper?branch=master)](https://bettercodehub.com/)
 
+[![Inline docs](http://inch-ci.org/github/lordBN/Mega-Dumper.svg?branch=master)](http://inch-ci.org/github/lordBN/Mega-Dumper)
+
 Orginal version https://github.com/CodeCracker-Tools/MegaDumper
 
 Download https://github.com/lordBN/Mega-Dumper/releases
